@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tehzeeb Dalal 🌻
 
-<!--
-**tehzeeb-dalal/Tehzeeb-Dalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE student learning to code from scratch.
 
-Here are some ideas to get you started:
+## What I'm currently learning
+- Python basics
+- Data Structures and Algorithms
+- Building my first projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My goal
+Land a high-paying software engineering role by the time I graduate.
+
+## Connect with me 
+- LinkedIn: (paste your LinkedIn URL here later)
